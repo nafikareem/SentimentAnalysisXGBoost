@@ -5,7 +5,7 @@
 - How effective is the Gradient Boosting model in analyzing the sentiment of user reviews of State University of Malang on Google Maps?
 - What is the comparison of model performance from the two methods, namely gridsearch and randomsearch?
 
-## **About This Project##
+## **About This Project**
 - in this project, i examined Hyperparameters tuning methods of ensamble learnning (XGBOOST).
 - to see whether there is a difference between the 2 hyperparameter tuning methods
 
